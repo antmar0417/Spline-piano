@@ -8,16 +8,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm i`
 
-# 3 if needs run
-
-### `npm install -D tailwindcss postcss autoprefixer`
-
-### `npm install @splinetool/react-spline @splinetool/runtime animejs lodash reactronica tone`
-
-# 4 if problem occurs run
-
-### `npm audit fix --force`
-
-# 5 run the project
+# 3 run the project
 
 ### `npm start`
